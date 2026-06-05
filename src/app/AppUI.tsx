@@ -327,7 +327,7 @@ export default function AppUI() {
           placement="bottom"
           open={mobileDrawerOpen}
           onClose={() => setMobileDrawerOpen(false)}
-          size="large"
+          size="85%"
           styles={{
             body: {
               padding: 16,
